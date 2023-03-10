@@ -1,0 +1,5 @@
+==>Google-chart-API-URL= https://chart.googleapis.com/chart?
+==>some required parameters that we need to add in the url, the first parameter is cht,cht=qr it specifies a QR code and it is required parameter.The next parameter is chs=width x height,It specifies Image's size, for example, chs=150x150,So the width & height will be 150, and it is also required parameter.The next parameter is chl=data,It is their data to encode. The data can be digits, alphanumeric characters or binary bytes.
+==>https://chart.googleapis.com/chart?cht=qr&chs=100x100&chl=hello  //text is hello
+==>to remove White space around QR code Generator adding===(chf=bg,s,65482100&)===before cht.
+==>DEPLOYED-ON-SERVER-LINK=https://www.blogger.com/u/1/blog/themes/edit/422184325041
