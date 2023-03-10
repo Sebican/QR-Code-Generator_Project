@@ -8,3 +8,5 @@ The next parameter is chl=data, It is their data to encode. The data can be digi
 3.https://chart.googleapis.com/chart?cht=qr&chs=100x100&chl=hello  //text is hello
 4.To remove White space around QR code Generator add the data inside the braces ( chf=bg,s,65482100& ) before cht of the chart URL.
 5.DEPLOYED-ON-SERVER-HERE-IS-THE-URL: https://www.blogger.com/u/1/blog/themes/edit/422184325041
+
+Thank You!
